@@ -9,3 +9,7 @@
 
 [Here is a link to the slides.](Chapter1.tex)
 
+[and now a link to the MD file of chapter 1](Chapter1.md)
+
+
+
