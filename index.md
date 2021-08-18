@@ -1,4 +1,6 @@
-## Welcome to the course Inference for Statistics and Data Science
+# Inference for Statistics and Data Science
+
+# Prof. Olivier Thas
 
 
 ### Content
